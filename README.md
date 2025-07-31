@@ -19,7 +19,7 @@ ___
 1. Download the `.py` script files (e.g., `ACi_Light_Sweep.py`) to your computer, and then to a USB thumbdrive.
 2. Connect the head to the console and turn the LI-6800 on. Connect the USB thumbdrive to the LI-6800.
 3. Use the LI-6800 file browser under `Tools`->`Manage Files:`. Select `Copy files to LI-6800`, and under the `Copy to` drop-down, select `BP Directory`. Find the protocol .py files, select them and press `Copy` to transfer the file to the device. Safely eject the USB with `Eject`.
-4. Add user variables under the `Constants` -> `User` tab. Press `Add` followed by `Edit` and rename the variable `CurveID`. Make another variable and rename it `Reponse`.
+4. Add user variables under the `Constants` -> `User` tab. Press `Add` followed by `Edit` and rename the variable `CurveID`. Make another variable and rename it `Response`.
 
 ---
 
